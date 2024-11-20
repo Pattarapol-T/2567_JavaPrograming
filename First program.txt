@@ -1,0 +1,17 @@
+class First Program
+{
+  static void main(String[] args)
+  {
+    System.out.print("studentId:2413111119")
+    System.out.print("studentName:Pattarapol Theera-at")
+    System.out.print("Topic:First Program")
+    System.out.print("Date:11/20/2024")
+  
+   JoptionPane.shoeMessageDiaLog(nall,
+               "studentId:2413111119" +
+               "\nstudentName:Pattarapol Theera-at" +
+               "\nTopic:First Program" +
+               "\nDate:11/20/2024"
+  }
+}
+             
