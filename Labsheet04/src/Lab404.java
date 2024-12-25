@@ -63,10 +63,10 @@ public class Lab404 {
 		else if(isItstudent) {
 			System.out.print(" is not 1st year student in IT");
 		}
-		if(isTtSubject) {
+		else if(isTtSubject) {
 			System.out.print("\n not enroll in courses for year 1");
 		}
-		else if(isTtSubject) {
+		else {
 			System.out.print("\n not enroll in courses for Year 1");
 		}
 	}
