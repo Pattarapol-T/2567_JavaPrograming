@@ -1,4 +1,4 @@
 StudentID:2413111119
 StudentName:Pattarapol Theera-at
-Topic:Array and Array Method
-Date:12/25/2024
+Topic:Class and Object
+Date:1/15/2025
