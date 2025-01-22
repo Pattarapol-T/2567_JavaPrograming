@@ -4,7 +4,6 @@ public class IncomeCalculator {
     public void setIncome(double income){
         this.income = income;
     }
-
     public double calculateTax(){
         double tax;
         if (income<=150000) {
@@ -21,7 +20,6 @@ public class IncomeCalculator {
         }
         return tax;
     }
-
     public void displayTaxDetails() {
         System.out.println("Income: "+income);
         System.out.println("Tax: "+calculateTax());
