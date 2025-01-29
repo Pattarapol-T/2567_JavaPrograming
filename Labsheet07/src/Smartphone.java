@@ -50,8 +50,12 @@ public class Smartphone {
 			
 		}	
 	public int getRemainingStorage(int usedStorage) {
-		if (usedStorage >0 && usedStorage <storageCapacity);
+		if (usedStorage >0 && usedStorage <storageCapacity) {
 		return storageCapacity - usedStorage;
+		}else {
+			System.out.println("Error: Used storage must be between 0 and<storageCapacity> GB!");
+			return -1;
+		}
 	}
 	
 	
