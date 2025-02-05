@@ -1,5 +1,4 @@
 StudentID:2413111119
 StudentName:Pattarapol Theera-at
-Topic:- Array Object
-- Composition Concept
-Date:1/29/2025
+Topic: Inheritance  Concept Composition Concept
+Date:02/05/2025
